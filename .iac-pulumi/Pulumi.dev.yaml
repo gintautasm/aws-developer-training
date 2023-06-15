@@ -1,0 +1,6 @@
+config:
+  aws:region: eu-west-1
+  aws:defaultTags:
+    tags:
+      application: iam-policy-v2
+      build: v1
